@@ -1,0 +1,6 @@
+git clone https:**********************
+git add file.name
+git commit -m "your commit"
+git push origin master
+///sometimes in after error of 'git push origin master' use >> git pull --rebase
+ 
